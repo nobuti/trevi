@@ -6,11 +6,11 @@ require 'trevi/version'
 Gem::Specification.new do |spec|
   spec.name          = "trevi"
   spec.version       = Trevi::VERSION
-  spec.authors       = ["Alex MacCaw"]
-  spec.email         = ["alex@alexmaccaw.com"]
+  spec.authors       = ["Original author: Alex MacCaw."]
+  spec.email         = ["buti@nobuti.com"]
   spec.description   = %q{An opinionated Sinatra structure}
   spec.summary       = %q{An opinionated Sinatra structure}
-  spec.homepage      = "http://github.com/maccman/trevi"
+  spec.homepage      = "http://github.com/nobuti/trevi"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
