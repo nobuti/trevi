@@ -1,5 +1,4 @@
 require 'sprockets'
-require 'stylus/sprockets'
 
 module <%= @name.camel_case %>
   module Extensions
